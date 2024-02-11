@@ -2,9 +2,8 @@
 
 int main (void)
 {
-    int x = 22222;
-    int y = 455;
-    printf("%i + %i = %d\n", x, y, x + y);
-
-    printf("speller");
+    int s = 3;
+    int d = 5;
+    printf("%d", s + d);
+    printf("No");
 }
