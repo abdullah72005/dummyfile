@@ -2,7 +2,9 @@
 
 int main (void)
 {
-    int x = 2;
-    int y = 4;
-    printf("%i + %i\n", x, y);
+    int x = 22222;
+    int y = 455;
+    printf("%i + %i = %d\n", x, y, x + y);
+
+    printf("speller");
 }
